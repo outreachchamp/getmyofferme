@@ -1,1 +1,2 @@
-# getmyofferme
+What is Getmyoffer.Capitalone.com? https://getmyoffer.me/
+GetMyOffer by Capital One is a platform designed to provide personalized offers to Capital One customers. It gives you the opportunity to apply for exclusive credit card products and other financial services, often with tailored benefits such as low APR rates, bonus rewards, or special promotions. If you've received a promotional offer via mail, email, or through the website, you'll typically find a reservation code. This code is an important part of the application process, and it ensures that you're receiving a specific offer that was customized for you.
